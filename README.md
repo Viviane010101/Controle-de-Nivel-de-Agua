@@ -5,9 +5,6 @@
 **Simulação em Python para monitoramento de um reservatório**
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Colorama](https://img.shields.io/badge/Colorama-cores%20no%20terminal-2E8B57?style=for-the-badge)
-![Projeto acadêmico](https://img.shields.io/badge/Projeto-Acad%C3%AAmico-7B61A8?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-informational?style=for-the-badge)
 
 </div>
 
