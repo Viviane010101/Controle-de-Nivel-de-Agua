@@ -36,7 +36,7 @@ O programa simula o monitoramento de um reservatório e apresenta uma mensagem d
 | 4 | Alto |  Ciano | Reservatório com boa quantidade de água |
 | 5 | Muito alto (alerta) | Azul | Verificar a capacidade do reservatório |
 
-## 🧰 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **Python** — lógica, funções, listas e repetição.
 - **Colorama** — exibição de cores no terminal.
