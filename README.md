@@ -30,11 +30,11 @@ O programa simula o monitoramento de um reservatório e apresenta uma mensagem d
 
 | Nível | Situação | Cor da mensagem | Significado |
 |:---:|---|---|---|
-| 1 | Muito baixo (crítico) | 🔴 Vermelho | Alerta crítico: verificar o abastecimento |
-| 2 | Baixo | 🟡 Amarelo | Atenção: acompanhar o nível |
-| 3 | Médio | 🟢 Verde | Situação intermediária |
-| 4 | Alto | 🩵 Ciano | Reservatório com boa quantidade de água |
-| 5 | Muito alto (alerta) | 🔵 Azul | Verificar a capacidade do reservatório |
+| 1 | Muito baixo (crítico) |  Vermelho | Alerta crítico: verificar o abastecimento |
+| 2 | Baixo |  Amarelo | Atenção: acompanhar o nível |
+| 3 | Médio |  Verde | Situação intermediária |
+| 4 | Alto |  Ciano | Reservatório com boa quantidade de água |
+| 5 | Muito alto (alerta) | Azul | Verificar a capacidade do reservatório |
 
 ## 🧰 Tecnologias utilizadas
 
