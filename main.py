@@ -1,20 +1,12 @@
-"""
-Projeto acadêmico: Controle de Níveis de Água
-Desenvolvido para a atividade da Agenda 11 – Desenvolvimento de Sistemas.
-
-O programa simula o monitoramento de um reservatório usando cinco níveis
-predefinidos. Cada nível possui uma situação, uma mensagem de alerta e uma
-cor para destacar o resultado no terminal.
-"""
 
 from colorama import Fore, Style, init
 
 # Inicializa o Colorama para que as cores também funcionem adequadamente
-# em terminais Windows. autoreset=False permite restaurar o estilo ao final.
+
 init(autoreset=False)
 
 # Lista com os dados dos cinco níveis, do mais baixo ao mais alto.
-# Cada item é um dicionário com nível, situação, cor e mensagem.
+
 NIVEIS_RESERVATORIO = [
     {
         "nivel": 1,
