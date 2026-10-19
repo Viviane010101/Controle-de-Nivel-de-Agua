@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💧 Controle de Níveis de Água
+# Controle de Níveis de Água
 
 **Simulação em Python para monitoramento de um reservatório**
 
@@ -54,6 +54,6 @@ Desenvolvido como atividade prática de **Desenvolvimento de Sistemas 1**.
 
 <div align="center">
 
-Feito para fins de estudo e prática em Python 💧
+Feito para fins de estudo e prática em Python 
 
 </div>
