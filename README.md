@@ -16,7 +16,6 @@ Este projeto foi desenvolvido para a atividade **“Controle de Níveis de Água
 
 O programa simula o monitoramento de um reservatório e apresenta uma mensagem de situação para cada nível de água. Para facilitar a identificação dos alertas, as mensagens são exibidas com cores diferentes no terminal usando a biblioteca **Colorama**.
 
-> **Atenção:** esta é uma simulação acadêmica. O programa não está conectado a sensores nem monitora um reservatório real.
 
 ##  Objetivos da atividade
 
