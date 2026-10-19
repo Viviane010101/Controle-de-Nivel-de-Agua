@@ -43,6 +43,12 @@ O programa simula o monitoramento de um reservatório e apresenta uma mensagem d
 - **Git e GitHub** — versionamento e publicação do projeto.
 
 
+---
+
+### Projeto acadêmico
+
+Desenvolvido como atividade prática de **Desenvolvimento de Sistemas 1**.
+
 
 ---
 
